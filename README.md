@@ -1,1 +1,35 @@
-# RoadToJunior
+План обучения 
+
+- [ ] Java Core
+      - [ ] Принципы ООП (на примерах)
+      - [ ] Методы объекта “Object”
+      - [ ] Collection Framework 
+           - [ ] Set
+           - [ ] Queue 
+           - [ ] List
+           - [ ] Иерархия коллекций 
+           - [ ] Map (HashMap макс. детально)
+      - [ ] Многопоточность (1 день) 
+      - [ ] Книга
+      - [ ] Проект 
+- [ ] SQL 
+      - [ ] PostgreSQL
+      - [ ] Книга
+      - [ ] Проект
+- [ ] Hibernate
+     - [ ] Как пишется HQL
+     - [ ] Hibernate session и как 
+           пользоваться
+     - [ ] Книга
+     - [ ] Проект
+- [ ] Spring
+     - [ ] Spring Core 
+     - [ ] Spring Boot
+     - [ ] Spring Date
+     - [ ] Spring MVC
+     - [ ] Книга
+     - [ ] Проект
+- [ ] Rest сервисы
+     - [ ] json 
+     - [ ] Книга
+     - [ ] Проект 
